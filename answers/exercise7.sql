@@ -1,2 +1,2 @@
-SELECT * FROM Students
-WHERE NOT City='Philadelphia';
+ALTER TABLE Users
+DROP COLUMN Birthday;

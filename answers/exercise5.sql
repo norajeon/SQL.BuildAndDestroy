@@ -1,5 +1,4 @@
-ALTER TABLE Users
-ADD Birthday DATE;
+//to delete data inside a table, but not the table itself
+TRUNCATE TABLE Users;
 
-ALTER TABLE Users
-DROP COLUMN Birthday;
+
