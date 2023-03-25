@@ -1,0 +1,8 @@
+
+
+CREATE SCHEMA myNewDB;
+
+or
+
+CREATE DATABASE myNewDB;
+

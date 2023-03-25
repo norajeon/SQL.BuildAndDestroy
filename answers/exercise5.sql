@@ -1,0 +1,5 @@
+ALTER TABLE Users
+ADD Birthday DATE;
+
+ALTER TABLE Users
+DROP COLUMN Birthday;
